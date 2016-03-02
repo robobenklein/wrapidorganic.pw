@@ -2,6 +2,7 @@
 title: Wrapid Organic
 email: service@wrapidorganic.pw
 description: > # this means to ignore newlines until "baseurl:"
+logoimg: /img/logo.svg
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://wrapidorganic.pw" # the base hostname & protocol for your site
 
