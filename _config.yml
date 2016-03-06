@@ -7,7 +7,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://wrapidorganic.pw" # the base hostname & protocol for your site
 
 twitter_username:
-github_username:
+github_repo: robobenklein/wrapidorganic.pw
 
 # Build settings
 markdown: kramdown
